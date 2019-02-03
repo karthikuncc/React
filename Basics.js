@@ -1,4 +1,4 @@
-
+//JSX is html in javascript
 //npm package create-react-app
 //create-react-app myApp
 //npm start
